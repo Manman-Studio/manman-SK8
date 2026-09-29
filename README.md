@@ -7,3 +7,4 @@
 - 慢慢滑板开始使用[Slack](https://slack.com/)
 - [慢慢来了](http://manmansk8.club)网站改版了 - 5.18/2022
 - [慢慢来了](http://manmansk8.club)滑板俱乐部官网滑板新闻试运行 - 9.17/2026
+  ![](manmansk8News0.jpeg)
